@@ -1,9 +1,9 @@
 #ifndef FUNCTION_H
 #define FUNCTION_H
 
-#include <stdlib.h>
-#include <stdio.h>
+int Discriment(int a,int b,int c);
 
-void Hello();
+int Proverka(int D);
 
 #endif
+
