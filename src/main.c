@@ -4,15 +4,15 @@
 
 int main ()
 {
-	int a,b,c,D,i;
-	float x;
+	float a,b,c,x;
+	int i, D;
 	printf("a*(x*x)+b*x+c=0\n");
 	printf ("a = ");
-	scanf("%d",&a);
+	scanf("%f",&a);
 	printf("b = ");
-	scanf("%d",&b);
+	scanf("%f",&b);
 	printf("c = ");
-	scanf("%d",&c);
+	scanf("%f",&c);
 	D = Discriment(a,b,c);
 	i = Proverka(D);
 	switch (i) {

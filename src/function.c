@@ -14,9 +14,9 @@ int Proverka(int D)
 	return 0;
 }
 
-int Discriment(int a,int b, int c)
+float Discriment(float a, float b, float c)
 {
-	int D = b*b - 4 * a * c;
+	float D = b*b - 4 * a * c;
 	return D;
 }
 

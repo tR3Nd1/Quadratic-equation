@@ -30,5 +30,5 @@ clean:
 	@echo "Cleaning files in build directory" 	
 	@rm -rf build/*.d build/*.o 
 	@rm -rf build/test/*.d build/test/*.o
-	@echo "Cleaning binaries"
+
 

@@ -1,7 +1,7 @@
 #ifndef FUNCTION_H
 #define FUNCTION_H
 
-int Discriment(int a,int b,int c);
+float Discriment(float a, float b, float c);
 
 int Proverka(int D);
 
