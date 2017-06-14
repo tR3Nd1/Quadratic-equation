@@ -3,7 +3,7 @@
 
 float Discriment(float a, float b, float c);
 
-int Proverka(int D);
+int Proverka(float D);
 
 #endif
 

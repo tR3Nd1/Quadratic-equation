@@ -4,8 +4,8 @@
 
 int main ()
 {
-	float a,b,c,x;
-	int i, D;
+	float a,b,c,x,D;
+	int i;
 	printf("a*(x*x)+b*x+c=0\n");
 	printf ("a = ");
 	scanf("%f",&a);

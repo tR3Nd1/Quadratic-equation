@@ -1,6 +1,6 @@
 #include "function.h"
 
-int Proverka(int D)
+int Proverka(float D)
 {
 	if (D == 0) {
 		return 0;
